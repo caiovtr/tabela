@@ -1,0 +1,23 @@
+table.nomes tr th, table.nomes tr td{
+    border: 0.2rem double rgb(158, 28, 28);
+    padding:0.1rem;
+}
+
+table.numeros tr td{
+    border: 0.15rem solid rgb(39, 83, 14);
+    padding:0.45rem;
+}
+
+table.mesclar tr td{
+    border: 0.20rem solid rgb(17, 180, 185);
+    padding:0.75rem;
+}
+
+table tr th, table tr td{
+    border: 0.2rem solid rgb(0, 0, 0);
+    padding:0.8rem;
+}
+
+table{
+    border-collapse: collapse;
+}
