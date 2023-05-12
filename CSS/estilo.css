@@ -21,3 +21,8 @@ table tr th, table tr td{
 table{
     border-collapse: collapse;
 }
+
+section{
+    display: flex;
+    height: 100vh;
+}
